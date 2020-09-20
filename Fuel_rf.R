@@ -76,7 +76,7 @@ folds <- vfold_cv(train_df, v = 5)
 folds
 
 
-###Step7 Hypertune a model with grid search
+###Step 7 Hypertune a model with grid search
 
 #Set up the Grid to search for candidates, we choose 25 candidate models,
 #then we tune the model with our 10 resamples of the data
