@@ -1,5 +1,9 @@
-Predicting Alternative Fuel Usage with Random Forest
--
+---
+layout: post
+title: "Predicting Alternative Fuel Usage with Random Forest"
+date: 2020-09-20
+author: Franz Buchmann
+---
 
 Executive Summary
 -----------------
