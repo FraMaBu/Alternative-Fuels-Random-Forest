@@ -18,7 +18,7 @@ df = read.csv(file = "fuel_data.csv", stringsAsFactors = T)
 
 df$fuel = as.factor(df$fuel)
 
-str(df[,2:12])
+glimpse(df[,2:12])
 
 ######
 ###Step 2: Initial observations and splitting the data
